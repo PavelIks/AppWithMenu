@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppWithMenu</string>
+    <string name="menu_setting">Настройки</string>
+    <string name="menu_save">Сохранить</string>
+</resources>
